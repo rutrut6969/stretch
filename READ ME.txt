@@ -1,0 +1,3 @@
+I know this isn't the traditional readme file, I was just adding this just start with index.html, and you'll see
+where that goes lol. Those extra pages are practically empty. just play around with it, each of those pages has a nav setting
+from the home page I'm sure you'll see it.
